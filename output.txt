@@ -1,5 +1,7 @@
-Output when the following calculations are given as input: "32 + 698", "3801 - 2", "45 + 43", "123 + 49".
-The second output version displays the results since the parameter to show or not the answers is set to True.
+The output below shows the formatting of the arithmetic problems: "32 + 698", "3801 - 2", "45 + 43", and "123 + 49".
+
+The first example displays the problems arranged vertically without the answers.
+The second example shows the same problems with their results, as the parameter to display answers is set to True.
 
    32      3801      45      123
 + 698    -    2    + 43    +  49
@@ -9,4 +11,5 @@ The second output version displays the results since the parameter to show or no
    32      3801      45      123
 + 698    -    2    + 43    +  49
 -----    ------    ----    -----
+
   730      3799      88      172
