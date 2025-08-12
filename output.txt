@@ -1,0 +1,12 @@
+Output when the following calculations are given as input: "32 + 698", "3801 - 2", "45 + 43", "123 + 49".
+The second output version displays the results since the parameter to show or not the answers is set to True.
+
+   32      3801      45      123
++ 698    -    2    + 43    +  49
+-----    ------    ----    -----
+
+
+   32      3801      45      123
++ 698    -    2    + 43    +  49
+-----    ------    ----    -----
+  730      3799      88      172
