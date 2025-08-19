@@ -13,6 +13,6 @@ It formats arithmetic problems vertically and side-by-side, simulating how stude
 
 ## Project Structure
 
-- arithmetic_arranger.py: Main Python module containing the `arithmetic_arranger` function and logic  
+- arithmetic_formatter_project.py: Main Python module containing the `arithmetic_arranger` function and logic  
 - README.md: Project documentation  
 - output.txt: Sample output based on test cases for the `arithmetic_arranger` function  
